@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-test-without-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js ./*-test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
