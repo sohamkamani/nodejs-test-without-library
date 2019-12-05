@@ -2,7 +2,7 @@ const assert = require('assert')
 const { add, subtract } = require('./calculator')
 
 test('should add two numbers', () => {
-        assert.equal(add(1, 2), 4)
+        assert.equal(add(1, 2), 3)
 })
 
 test('should subtract two numbers', () => {
